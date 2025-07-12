@@ -6,6 +6,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{F0F8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZROZIN.App.Tests", "backend\ZROZIN.App.Tests\ZROZIN.App.Tests.csproj", "{9DC470A9-0572-492D-8B93-8B4C4F9924B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZROZIN.DesktopUI", "ZROZIN.DesktopUI\ZROZIN.DesktopUI.csproj", "{6860BDF5-1242-4EB1-9737-9DDDB6D91149}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{9DC470A9-0572-492D-8B93-8B4C4F9924B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DC470A9-0572-492D-8B93-8B4C4F9924B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DC470A9-0572-492D-8B93-8B4C4F9924B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6860BDF5-1242-4EB1-9737-9DDDB6D91149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6860BDF5-1242-4EB1-9737-9DDDB6D91149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6860BDF5-1242-4EB1-9737-9DDDB6D91149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6860BDF5-1242-4EB1-9737-9DDDB6D91149}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5BBA1251-4E39-4124-AE92-1EC8A24B17D0} = {F0F8C7B0-4D59-4BEC-A3DA-29052F78FCF1}
